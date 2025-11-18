@@ -1,3 +1,4 @@
+8be89f1 finish Task 2.1 and update the log
 4fde4eb finish Task 1.2 and update the log
 6d68836 finish Task 1.1 and pass the test
 092f612 Initial commit

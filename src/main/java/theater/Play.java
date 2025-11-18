@@ -17,7 +17,7 @@ public class Play {
     /**
      * Returns the name of this play.
      *
-     * @return the play name (may be null)
+     * @return the play name (maybe null)
      */
 
     public String getName() {
